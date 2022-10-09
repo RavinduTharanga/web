@@ -283,3 +283,12 @@ html {
   display: block;
   margin-top: -105px;
 }
+.fancy-feature-twelve .illustration-holder .card-two .info {
+  font-size: 16px;
+  margin: -6px 0 -9px;
+  color: white;
+}
+ h6 {
+  color: white !important;
+  font-weight: normal;
+}
