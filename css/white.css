@@ -300,3 +300,8 @@ html {
   margin-top: 20px;
 }
 }
+@media (min-width: 1800px){
+.ms-xxl-5 {
+  margin-left: 0rem !important;
+}
+}
