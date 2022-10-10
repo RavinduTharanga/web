@@ -282,6 +282,7 @@ html {
   max-width: 77%;
   display: block;
   margin-top: -105px;
+  border-radius: 175px;
 }
 .fancy-feature-twelve .illustration-holder .card-two .info {
   font-size: 16px;
@@ -292,8 +293,10 @@ html {
   color: white !important;
   font-weight: normal;
 }
-.block-style-two.md-mb-50{
 
-  margin-left: 25px !important;
-
+@media (min-width: 1200px) and (max-width: 1800px){
+.title-style-one .main-title {
+  font-size: 52px;
+  margin-top: 20px;
+}
 }
