@@ -4,9 +4,7 @@
   .mt-50 {
     margin-top: 0px !important;
   }
-  .mt-110 {
-    margin-top: 0px !important;
-  }
+  
   .team-block-one {
     background: white;
     box-shadow: 0px 35px 70px rgba(0, 21, 133, 0.04);
@@ -103,5 +101,5 @@
   }
   .w-100 {
     width: 100% !important;
-    height: 304px !important;
+    height: 400px !important;
   }
